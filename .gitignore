@@ -1,3 +1,6 @@
+.env
+/PYTHON_DISCORD_BOT
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
